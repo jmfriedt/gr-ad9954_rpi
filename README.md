@@ -3,7 +3,7 @@
 Daughter board for the Raspberry Pi 3 or 4 fitted with an Analog Devices AD9954 Direct 
 Digital Synthesizer.
 
-<img src="DDS_RPi4/DDS_RPi4.png" style="transform:rotate(90deg);">
+<img src="DDS_RPi4/DDS_RPi4.png">
 
 KiCAD 6 schematic and board are provided.
 
@@ -17,4 +17,4 @@ The Python 3 script ``ad9954.py`` was used to demonstrate proper operation of th
 
 <img src="pictures/DSC_0739.JPG" width=200> 
 <img src="pictures/PNG4.png" width=200> 
-<img src="pictures/DSC_0741.JPG" style="transform:rotate(90deg);" width=200> 
+<img src="pictures/DSC_0741.JPG" width=200> 
